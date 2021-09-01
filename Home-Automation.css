@@ -4,7 +4,7 @@
 
 .u-section-1 .u-shape-1 {
   width: calc(((100% - 1140px) / 2) + 884px);
-  background-image: linear-gradient(#adcce9, #f1b5b8);
+  background-image: none;
   left: 0;
   right: auto;
 }
@@ -14,6 +14,7 @@
   height: 609px;
   object-position: 2.6% 50%;
   background-position: 2.6% 50%;
+  filter: brightness(0.8);
   margin: 60px calc(((100% - 1140px) / 2)) 0 auto;
 }
 
